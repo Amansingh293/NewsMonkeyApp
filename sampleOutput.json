@@ -1,0 +1,266 @@
+{
+    "status": "ok",
+    "totalResults": 38,
+    "articles": [
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Amy Cheng, Mary Ilyushina, Robyn Dixon, Ellen Francis",
+        "title": "Brittney Griner may go to a Russian penal colony. Here's what you need to know. - The Washington Post",
+        "description": "Brittney Griner, who was in Russia to play for a local team during the WNBA offseason, was detained over vape carriages containing cannabis oil in her luggage.",
+        "url": "https://www.washingtonpost.com/world/2022/08/05/brittney-griner-russia-penal-colonies-prison/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/KL6DAEAUCMI63BECA3A4QTHI6I.jpg&w=1440",
+        "publishedAt": "2022-08-05T14:10:07Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cbs-news",
+          "name": "CBS News"
+        },
+        "author": null,
+        "title": "2 dead, 2 in critical condition after lightning strike near White House - CBS News",
+        "description": "The victims were near a statue of Andrew Jackson, Maggiolo said, adding that \"it appeared they were in the vicinity of a tree.\"",
+        "url": "https://www.cbsnews.com/news/lightning-strike-white-house-lafayette-square/",
+        "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/08/04/9e1ee9d4-e59f-4cb5-9ab8-1ed841078079/thumbnail/1200x630/36ca561c92ff4abfcdfe6749fbdb6185/lafayette-square.jpg",
+        "publishedAt": "2022-08-05T14:03:00Z",
+        "content": "Two people who were critically injured in a lightning strike outside the White House have died, police confirmed to CBS News Friday. Two others remained hospitalized with life-threatening injuries.\r\n… [+1870 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Jessie Yeung",
+        "title": "China suspends cooperation with US on range of issues, sanctions Pelosi over Taiwan trip - CNN",
+        "description": "China's Foreign Ministry announced new countermeasures against Washington on Friday, including the suspension of climate talks, in response to Nancy Pelosi's visit to Taiwan, hours after it announced sanctions against the US House speaker.",
+        "url": "https://www.cnn.com/2022/08/05/asia/nancy-pelosi-taiwan-china-tokyo-intl-hnk/index.html",
+        "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/220804200315-03-pelosi-japan-220805.jpg?c=16x9&q=w_800,c_fill",
+        "publishedAt": "2022-08-05T13:55:00Z",
+        "content": "Chinas Foreign Ministry announced new countermeasures against Washington on Friday, including the suspension of climate talks, in response to Nancy Pelosis visit to Taiwan, hours after it announced s… [+5643 chars]"
+      },
+      {
+        "source": {
+          "id": "the-wall-street-journal",
+          "name": "The Wall Street Journal"
+        },
+        "author": "Wenxin Fan in Hong Kong and Joyu Wang in Taipei",
+        "title": "China Boasts of Ability to Blockade Taiwan as Military Exercises Continue - The Wall Street Journal",
+        "description": "China touted its military exercises around Taiwan as proof of its ability to blockade the self-ruled island in the event of a war, as the operations entered a second day.",
+        "url": "https://www.wsj.com/articles/china-boasts-of-ability-to-blockade-taiwan-as-military-exercises-continue-11659695158",
+        "urlToImage": "https://images.wsj.net/im-598373/social",
+        "publishedAt": "2022-08-05T13:39:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "reuters",
+          "name": "Reuters"
+        },
+        "author": null,
+        "title": "Ukraine seeks to extend shipping safe passage deal beyond grain - Reuters",
+        "description": "Three grain ships left Ukrainian ports on Friday while the first inbound cargo vessel since Russia's invasion was due in Ukraine to load, as Kyiv called for the safe passage deal to be extended to other cargoes such as metals.",
+        "url": "https://www.reuters.com/world/europe/three-grain-ships-set-leave-ukraine-nato-chief-says-russia-must-not-win-2022-08-05/",
+        "urlToImage": "https://www.reuters.com/resizer/oaUHNmIXxTOxx_8YDRVjF7UmTt8=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/O7MBQVGNXZMZTFI6ZBRQAE4CBE.jpg",
+        "publishedAt": "2022-08-05T13:35:00Z",
+        "content": "ISTANBUL/KYIV, Aug 5 (Reuters) - Three grain ships left Ukrainian ports on Friday while the first inbound cargo vessel since Russia's invasion was due in Ukraine to load, as Kyiv called for the safe … [+5126 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Forbes"
+        },
+        "author": "Gordon Kelly",
+        "title": "New Apple Exclusive Reveals Lower-Than-Expected iPhone 14 Price - Forbes",
+        "description": "Apple's has a pricing surprise for the Phone 14...",
+        "url": "https://www.forbes.com/sites/gordonkelly/2022/08/05/apple-iphone-14-pro-max-price-freeze-release/",
+        "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/62693273061db6040224e08a/0x0.jpg?format=jpg&crop=1337,752,x0,y502,safe&width=1200",
+        "publishedAt": "2022-08-05T13:25:00Z",
+        "content": "08/05 Update below. This post was originally published on August 03\r\nApple leaks have consistently agreed on one thing: iPhone 14 models are getting more expensive. That is, until now. \r\nIn a new blo… [+3854 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "Hollywood Reporter"
+        },
+        "author": "Kim Masters",
+        "title": "DC Films’ Walter Hamada Was on the Brink of Exit After ‘Batgirl’ Cancellation - Hollywood Reporter",
+        "description": "Amid the shelving of the HBO Max film Batgirl and the clear desire of Warner Bros. Discovery chief David Zaslav to find new leadership for the DC universe, DC Films president Walter Hamada has come to the verge of exiting the studio and consulted with counsel…",
+        "url": "https://www.hollywoodreporter.com/movies/movie-news/dc-films-walter-hamada-exit-batgirl-1235193439/",
+        "urlToImage": "https://www.hollywoodreporter.com/wp-content/uploads/2022/06/Walter-Hamada_headshot_template-H-2022.jpg?w=1024",
+        "publishedAt": "2022-08-05T13:03:13Z",
+        "content": "Amid the shelving of the HBO Max film Batgirl and the clear desire of Warner Bros. Discovery chief David Zaslav to find new leadership for the DC universe, DC Films president Walter Hamada has come t… [+3119 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "ESPN"
+        },
+        "author": "Bradford Doolittle",
+        "title": "Five contenders with gaping holes remaining after the MLB trade deadline - ESPN",
+        "description": "Could failing to upgrade at underperforming positions sink these teams' pennant hopes?",
+        "url": "https://www.espn.com/mlb/insider/insider/story/_/id/34346144/five-contenders-gaping-holes-remaining-mlb-trade-deadline",
+        "urlToImage": "https://a.espncdn.com/combiner/i?img=%2Fphoto%2F2022%2F0804%2Fr1044486_1296x729_16%2D9.jpg",
+        "publishedAt": "2022-08-05T13:01:55Z",
+        "content": "Every team enters the trade deadline with a wish list. No one gets everything they want -- even if in San Diego it might feel that way right now.\r\nNo roster is perfect. There are always holes on even… [+1253 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "NBCSports.com"
+        },
+        "author": "Josh Alper",
+        "title": "Josh McDaniels on Josh Jacobs: Good for backs to play in preseason - NBC Sports",
+        "description": "Rookie running back Zamir White impressed the Raiders in Thursday night’s Hall of Fame Game, but his strong outing wasn’t the only notable development in the offensive backfield.Josh Jacobs started and played the first couple of series despite a weather delay…",
+        "url": "https://profootballtalk.nbcsports.com/2022/08/05/josh-mcdaniels-on-josh-jacobs-good-for-backs-to-play-in-preseason/",
+        "urlToImage": "https://profootballtalk.nbcsports.com/wp-content/uploads/sites/25/2022/08/GettyImages-1412977316-e1659702724257.jpg",
+        "publishedAt": "2022-08-05T12:32:00Z",
+        "content": "Rookie running back Zamir Whiteimpressed the Raiders in Thursday nights Hall of Fame Game, but his strong outing wasnt the only notable development in the offensive backfield.\r\nJosh Jacobs started an… [+1074 chars]"
+      },
+      {
+        "source": {
+          "id": "associated-press",
+          "name": "Associated Press"
+        },
+        "author": "Anthony Izaguirre",
+        "title": "DeSantis suspends elected prosecutor over new abortion law - The Associated Press - en Español",
+        "description": "TALLAHASSEE, Fla. (AP) — Florida Gov. Ron DeSantis suspended the elected state prosecutor of Tampa on Thursday for pledging not to enforce the state's new 15-week abortion  ban and for supporting gender transition treatments for minors.",
+        "url": "https://apnews.com/article/abortion-crime-tampa-florida-ron-desantis-b62f465e0946ad6c4bf2cec539c7974b",
+        "urlToImage": "https://storage.googleapis.com/afs-prod/media/e961b7450c994e8f9ee16e687a1d530e/3000.jpeg",
+        "publishedAt": "2022-08-05T12:25:28Z",
+        "content": "TALLAHASSEE, Fla. (AP) Florida Gov. Ron DeSantis suspended the elected state prosecutor of Tampa on Thursday for pledging not to enforce the states new 15-week abortion ban and for supporting gender … [+5376 chars]"
+      },
+      {
+        "source": {
+          "id": "ign",
+          "name": "IGN"
+        },
+        "author": "Adele Ankers-Range",
+        "title": "The James Webb Telescope Offers a Glimpse of the Cartwheel Galaxy - IGN",
+        "description": "NASA's James Webb Space Telescope has captured a stunning image of the Cartwheel Galaxy, revealing new details about its formation, shape, and structure.",
+        "url": "https://www.ign.com/articles/cartwheel-galaxy-james-webb-space-telescope-photo",
+        "urlToImage": "https://assets-prd.ignimgs.com/2022/08/05/cartwheel-galaxy-1659693755897.png?width=1280",
+        "publishedAt": "2022-08-05T12:15:43Z",
+        "content": "NASA's James Webb Space Telescope has captured a stunning image of the Cartwheel Galaxy, revealing new details about its formation, shape, and structure.\r\nThe image released by NASA on Tuesday shows … [+2388 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Oliver Darcy, CNN Business",
+        "title": "Jury finds Alex Jones caused $4 million in damages to two Sandy Hook parents - CNN",
+        "description": "Right-wing talk show host Alex Jones will have to pay the parents of a Sandy Hook shooting victim a little more than $4 million in compensatory damages, a jury decided Thursday, capping a stunning and dramatic case that showcased for the public the real-world…",
+        "url": "https://www.cnn.com/2022/08/04/media/alex-jones-trial-sandy-hook-decision/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220804111818-file-alex-jones-defamation-trial-0802-super-tease.jpg",
+        "publishedAt": "2022-08-05T11:54:00Z",
+        "content": "New York (CNN Business)Right-wing talk show host Alex Jones will have to pay the parents of a Sandy Hook shooting victim a little more than $4 million in compensatory damages, a jury decided Thursday… [+6312 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "WMUR Manchester"
+        },
+        "author": "Kevin Skarupa",
+        "title": "High humidity expected Friday in New Hampshire; spotty showers, storms possible - WMUR Manchester",
+        "description": "The hot and humid weather continues for New Hampshire into the weekend, with scattered showers and thunderstorms possible Friday.",
+        "url": "https://www.wmur.com/article/new-hampshire-weather-8522/40817366",
+        "urlToImage": "https://kubrick.htvapps.com/htv-prod-media.s3.amazonaws.com/images/heat-advisory-85-1659700143.jpg?crop=1.00xw:1.00xh;0,0&resize=1200:*",
+        "publishedAt": "2022-08-05T11:53:00Z",
+        "content": "MANCHESTER, N.H. —The hot and humid weather continues for New Hampshire into the weekend, with scattered showers and thunderstorms possible Friday.\r\nHighs on Friday will be slightly cooler than Thurs… [+1991 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "New York Times"
+        },
+        "author": "Jeff Sommer",
+        "title": "What the 1980s Can Teach Us About Interest Rates and Inflation - The New York Times",
+        "description": "When inflation was soaring 40 years ago and the economy slowed, short-term investing was perilous. But people with patience and long horizons came out fine.",
+        "url": "https://www.nytimes.com/2022/08/05/business/inflation-investing-paul-volcker.html",
+        "urlToImage": "https://static01.nyt.com/images/2022/08/07/business/07Strategies-illo/07Strategies-illo-facebookJumbo.jpg",
+        "publishedAt": "2022-08-05T11:39:21Z",
+        "content": "The textbooks predict that when you raise interest rates high enough, an economy will sputter, and thats what happened:The secondVolcker recession began in July 1981 and lasted until November 1982.\r\n… [+2059 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "CNBC"
+        },
+        "author": "Jessica Dickler",
+        "title": "Is the economy in a recession? ‘What you call it is less relevant,’ says one economist: Here’s ‘what really matters' - CNBC",
+        "description": "Are we in a recession? A former chief economist at the U.S. Department of Labor and a former chair of the White House Council of Economic Advisers weigh in.",
+        "url": "https://www.cnbc.com/2022/08/05/is-the-economy-in-a-recession-top-economists-weigh-in.html",
+        "urlToImage": "https://image.cnbcfm.com/api/v1/image/107091133-1658271343838-gettyimages-1241979688-NYSE_RECESSION.jpeg?v=1658271409&w=1920&h=1080",
+        "publishedAt": "2022-08-05T11:30:01Z",
+        "content": "'We should have an objective definition'\r\nOfficially, the NBER defines a recession as \"a significant decline in economic activity that is spread across the economy and lasts more than a few months.\" … [+4122 chars]"
+      },
+      {
+        "source": {
+          "id": "the-washington-post",
+          "name": "The Washington Post"
+        },
+        "author": "Andrew Jeong",
+        "title": "Warner Bros. Discovery to merge HBO Max, Discovery Plus services - The Washington Post",
+        "description": "Warner Bros. Discovery has laid out its plans for the highly competitive streaming market as it aims to hit 130 million paying subscribers by 2025.",
+        "url": "https://www.washingtonpost.com/business/2022/08/05/hbo-max-discovery-plus-warner/",
+        "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/ZJ5GFMQUGQI63BECA3A4QTHI6I.jpg&w=1440",
+        "publishedAt": "2022-08-05T10:44:00Z",
+        "content": "Comment on this story\r\nWarner Bros. Discovery will merge its HBO Max and Discovery Plus services into a single streaming platform, as part of a plan to hit 130 million paying subscribers by 2025 in t… [+3201 chars]"
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "MJ Lee and Carma Hassan, CNN",
+        "title": "Biden administration declares the monkeypox outbreak a public health emergency - CNN",
+        "description": "The Biden administration on Thursday declared monkeypox a public health emergency, with cases on the rise across the US.",
+        "url": "https://www.cnn.com/2022/08/04/politics/monkeypox-public-health-emergency/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220803092852-monkeypox-super-tease.jpg",
+        "publishedAt": "2022-08-05T09:58:00Z",
+        "content": "(CNN)The Biden administration on Thursday declared monkeypox a public health emergency, with cases on the rise across the US.\r\nThe announcement came during a briefing with the Department of Health an… [+4504 chars]"
+      },
+      {
+        "source": {
+          "id": null,
+          "name": "YouTube"
+        },
+        "author": null,
+        "title": "ShowBiz Minute: Jones, Spacey, Ross - Associated Press",
+        "description": "Alex Jones ordered to pay Sandy Hook parents more than $4M; Judge: Kevin Spacey must pay $30M to \"House of Cards\" makers; Angelica Ross first openly trans ac...",
+        "url": "https://www.youtube.com/watch?v=ll9PRcQf8V0",
+        "urlToImage": "https://i.ytimg.com/vi/ll9PRcQf8V0/hqdefault.jpg",
+        "publishedAt": "2022-08-05T09:45:26Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "cnn",
+          "name": "CNN"
+        },
+        "author": "Ben Morse, CNN",
+        "title": "The NFL is back! Preseason begins with Las Vegas Raiders blowing out under-manned Jacksonville Jaguars - CNN",
+        "description": "After nearly six long months away, the NFL is back.",
+        "url": "https://www.cnn.com/2022/08/05/sport/raiders-jaguars-hall-of-fame-nfl-preseason-spt-intl/index.html",
+        "urlToImage": "https://cdn.cnn.com/cnnnext/dam/assets/220805043150-03-raiders-jaguars-nfl-preseason-beginning-super-tease.jpg",
+        "publishedAt": "2022-08-05T09:31:00Z",
+        "content": null
+      },
+      {
+        "source": {
+          "id": "politico",
+          "name": "Politico"
+        },
+        "author": null,
+        "title": "'There's Never Been Anybody Like Him in the United States Senate' - POLITICO",
+        "description": "Raphael Warnock won his seat running as an activist preacher. To keep it he’ll have to persuade voters he’s the rare senator who actually gets stuff done.",
+        "url": "https://www.politico.com/news/magazine/2022/08/05/raphael-warnock-georgia-senate-2022-profile-00049352",
+        "urlToImage": "https://static.politico.com/bf/6d/adb5bf7b40dbb2a09753eb8c8016/z-politicowarnockhigh.jpg",
+        "publishedAt": "2022-08-05T08:30:00Z",
+        "content": "More broadly, though, the way Warnock has operated in the last year and a half in the Senate as well as the way hes vying now for a full six-year term are natural extensions of the tensions that have… [+5562 chars]"
+      }
+    ]
+  }
